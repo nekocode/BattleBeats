@@ -1,11 +1,3 @@
-# README
+A danmaku game just like 'BeatHazard'. You can watch the game demo video in [Bilibili](http://www.bilibili.com/video/av568999/). The game needs to run under DirectX 9 (or higer version).
 
-### DEMO
-**[Play in Bilibili](http://www.bilibili.com/video/av568999/)**
-
-
-### Runtime
-- DX9 or higher
-
-### Preview
 ![preview](art/preview.gif "preview")
